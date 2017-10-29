@@ -1,3 +1,5 @@
+#!/usr/bin/env scala
+
 // src/main/scala/progscala2/introscala/upper1.sc
 
 class Upper {
